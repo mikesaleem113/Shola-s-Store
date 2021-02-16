@@ -11,7 +11,7 @@
                     <li>Registration & Login</li>
                 </ul>                                                <article class="page-cont">
                 <div class="page-styling">
-
+                    //test
 
                     <div class="auth-wrap">
                         <div class="auth-col">
